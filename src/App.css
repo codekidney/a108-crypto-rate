@@ -31,3 +31,13 @@
     transform: rotate(360deg);
   }
 }
+
+.list-group-item .red {
+  color: red;
+}
+.list-group-item .green {
+  color: green;
+}
+.list-group-item .default {
+  color: grey;
+}
