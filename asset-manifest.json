@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/a108-crypto-rate/static/css/main.d27f95ac.chunk.css",
+    "main.js": "/a108-crypto-rate/static/js/main.15d26b75.chunk.js",
+    "main.js.map": "/a108-crypto-rate/static/js/main.15d26b75.chunk.js.map",
+    "runtime~main.js": "/a108-crypto-rate/static/js/runtime~main.84bd00f7.js",
+    "runtime~main.js.map": "/a108-crypto-rate/static/js/runtime~main.84bd00f7.js.map",
+    "static/css/2.627d0f56.chunk.css": "/a108-crypto-rate/static/css/2.627d0f56.chunk.css",
+    "static/js/2.31cefde2.chunk.js": "/a108-crypto-rate/static/js/2.31cefde2.chunk.js",
+    "static/js/2.31cefde2.chunk.js.map": "/a108-crypto-rate/static/js/2.31cefde2.chunk.js.map",
+    "index.html": "/a108-crypto-rate/index.html",
+    "precache-manifest.949ee8df436eafbe50a9b7199536cba9.js": "/a108-crypto-rate/precache-manifest.949ee8df436eafbe50a9b7199536cba9.js",
+    "service-worker.js": "/a108-crypto-rate/service-worker.js",
+    "static/css/2.627d0f56.chunk.css.map": "/a108-crypto-rate/static/css/2.627d0f56.chunk.css.map",
+    "static/css/main.d27f95ac.chunk.css.map": "/a108-crypto-rate/static/css/main.d27f95ac.chunk.css.map",
+    "static/media/font-awesome.min.css": "/a108-crypto-rate/static/media/fontawesome-webfont.fee66e71.woff"
+  }
+}
